@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--color primary itu bar utama -->
+        <item name="colorPrimary">@color/abuabu</item>
+        <!--color primary itu bar atas  -->
+        <item name="colorPrimaryDark">@color/abuabu2</item>
+        <!--color accent buat icon2 tambahan -->
+        <item name="colorAccent">@color/oranye</item>
+        <item name="android:textColorPrimary">@color/hitam</item>
+        <item name="android:textColorSecondary">@color/putih</item>
+        <item name="android:homeAsUpIndicator">@color/putih</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <color name="abuabu">#BDBDBD</color>
+    <color name="abuabu2">#BDBDBD</color>
+    <color name="oranye">#F4511E</color>
+    <color name="hitam">#212121</color>
+    <color name="putih">#ffffff</color>
+</resources>

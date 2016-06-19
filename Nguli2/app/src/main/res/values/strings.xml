@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="action_settings">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Frag_Beli">Silahkan Berbelanja</string>
+    <string name="notif_anda">Notifikasi Anda</string>
+    <string name="profil_anda">Profile Anda</string>
+    <string name="percobaan">Percobaan</string>
+    <string name="subjudul">Ini adalah percobaan</string>
+</resources>
